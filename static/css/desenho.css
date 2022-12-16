@@ -282,6 +282,11 @@ height: 40px;
   margin-top: 43%;
 }
 
-
+.voltar{
+  position: absolute;
+  height: 5%;
+  margin-left: 1%;
+  margin-top: 1%;
+}
 
 
